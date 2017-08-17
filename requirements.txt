@@ -1,0 +1,16 @@
+Django==1.9
+django-crispy-forms==1.6.1
+django-formtools==2.0
+django-pure-pagination==0.3.0
+django-simple-captcha==0.4.6
+future==0.16.0
+httplib2==0.9.2
+importlib==1.0.4
+linecache2==1.0.0
+mysql==0.0.1
+MySQL-python==1.2.5
+olefile==0.44
+Pillow==4.2.1
+six==1.10.0
+traceback2==1.4.0
+unittest2==1.1.0
